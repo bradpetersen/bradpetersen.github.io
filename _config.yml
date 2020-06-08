@@ -1,11 +1,11 @@
 # Site settings
 author: Brad Petersen
-title: 
+title: Brad's Blog
 header-img: img/home-bg.png
 email: brad.petersen7@gmail.com
 copyright_name: Brad Petersen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog by Brad Petersen
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bradpetersen
